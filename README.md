@@ -1,4 +1,2 @@
 # test
-test
-testing
-testingtestingtesting
+初次使用github
