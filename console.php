@@ -1,5 +1,5 @@
 <?php
-namespace foo\pp
+namespace foo\pp;
 class console
 {
   public function getAA()
