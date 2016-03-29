@@ -1,7 +1,7 @@
 <?php
 class console
 {
-  public getAA()
+  public function getAA()
   {
     return "AAA";
   }
